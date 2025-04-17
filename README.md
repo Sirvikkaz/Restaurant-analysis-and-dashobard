@@ -1,7 +1,10 @@
-# Restaurant Dashboard
+# Cognifyz Restaurant data analysis and Dashboard
 
 An interactive dashboard built using Dash & Plotly to explore restaurant data.
 
+# This is the dashboard image
+![Dashboard image 1](plot screenshot1.JPG)
+![Dashboard image 2](plot screenshot2.JPG)
 ## Features
 - Geo-visualization of restaurant locations
 - Ratings sentiment analysis
@@ -11,4 +14,24 @@ An interactive dashboard built using Dash & Plotly to explore restaurant data.
 - Top 5 cities with highest rating
 - Top 5 cities with most restaurants 
 - and more
+
+## Dependencies
+
+- plotly
+- matplotlib
+- pandas
+- numpy
+- dash
+- scikit-learn
+- geopandas
+- seaborn
+- ipykernel
+- ipython
+- ipywidgets
+- nbformat
+
+## Installation
 ## Run Locally
+```bash
+pip install -r requirements.txt
+
