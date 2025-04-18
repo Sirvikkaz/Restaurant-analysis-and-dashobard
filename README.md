@@ -3,8 +3,8 @@
 An interactive dashboard built using Dash & Plotly to explore restaurant data.
 
 # This is the dashboard image
-![Dashboard image 1](plot screenshot1.JPG)
-![Dashboard image 2](plot screenshot2.JPG)
+![Dashboard image 1](plot_screenshot1.JPG)
+![Dashboard image 2](plot_screenshot2.JPG)
 ## Features
 - Geo-visualization of restaurant locations
 - Ratings sentiment analysis
